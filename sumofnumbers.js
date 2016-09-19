@@ -37,3 +37,11 @@ console.log(sumFor(testList));
 console.log(sumWhile(testList));
 console.log(sumRecursion(testList));
 console.log(sumTheSimpleWay(testList));
+
+/*
+URL: https://github.com/dylanpavao/sumofnumbers
+Number of attempts: 3
+DNF (Attempt 1)
+20:45 (Attempt 2)
+14:31 (Attempt 3)
+ */
